@@ -1,7 +1,7 @@
 ## alpine-nginx
-[![Build Status](https://drone.twasforetold.com/api/badges/arobson/alpine-nginx/status.svg)](https://drone.twasforetold.com/arobson/alpine-nginx)
+[![Build Status](https://drone.twasforetold.com/api/badges/lucro/alpine-nginx/status.svg)](https://drone.twasforetold.com/lucro/alpine-nginx)
 
-Extends the official NGiNX image with a custom build of [ngx_upstream_jdomain](https://github.com/wdaike/ngx_upstream_jdomain) from [my fork](https://github.com/arobson/ngx_upstream_jdomain).
+Extends the official NGiNX image with a custom build of [ngx_upstream_jdomain](https://github.com/wdaike/ngx_upstream_jdomain) from [my fork](https://github.com/lucro/ngx_upstream_jdomain).
 
 ### Motivation
 We currently use NGiNX between AWS's ELB and our microservices for:
